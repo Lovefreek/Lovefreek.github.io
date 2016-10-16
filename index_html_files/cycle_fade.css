@@ -1,0 +1,15 @@
+.cycle1 {  margin:0px;  z-index:0; width:700px; height:300px;  }
+.cycleFade_slideshow { width:700px; height:300px; margin:0px;  z-index:1;  position:relative;  }
+.cycleFade_slideshow img { padding: 15px; border: 1px solid #ccc; background-color: #eee;  }
+#cycleFade_nav {  margin: 0px; position:relative; right:0px; top:-26px; z-index:2; width:800px;}
+
+#cycleFade_nav a { 
+		line-height:30px;
+		border:1px solid #ccc;
+		background:#eee;
+		color:#555;
+		margin:1px;
+		padding:0 10px;
+		text-decoration:none; }
+#cycleFade_nav a.activeSlide { background: #ddd; color: #000 }
+#cycleFade_nav a:focus { outline: none; }
