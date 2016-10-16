@@ -1,18 +1,18 @@
-window.local_cycleFade_3_data = [
+window.local_cycleFade_5_data = [
 {
- image: "index_html_files/89.jpg",
- loading: "index_html_files/90.png"
+ image: "index_html_files/121.jpg",
+ loading: "index_html_files/115.png"
 },
 {
- image: "index_html_files/91.jpg"
+ image: "index_html_files/122.jpg"
 },
 {
- image: "index_html_files/92.jpg"
+ image: "index_html_files/123.png"
 },
 {
- image: "index_html_files/93.jpg"
+ image: "index_html_files/124.jpg"
 },
 {
- image: "index_html_files/94.jpg"
+ image: "index_html_files/125.jpg"
 }
 ];
