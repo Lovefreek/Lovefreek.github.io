@@ -21,6 +21,8 @@ index_html_files/3.png
 index_html_files/4.png
 index_html_files/5.png
 index_html_files/6.png
+index_html_files/7.png
+index_html_files/8.png
 index_html_files/9.jpg
 index_html_files/10.jpg
 index_html_files/11.jpg
@@ -136,8 +138,6 @@ index_html_files/122.jpg
 index_html_files/123.png
 index_html_files/124.jpg
 index_html_files/125.jpg
-index_html_files/127.png
-index_html_files/128.png
 index_html_files/jquery.cycle.min.js
 index_html_files/cycleFade_config.js
 index_html_files/cycle_fade.css
