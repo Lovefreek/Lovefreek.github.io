@@ -1,17 +1,38 @@
 /* Text styles */
-.xr_s0 {font-family:Algerian;font-size:35px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
-.xr_s1 {font-family:AR CENA;font-size:43px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
-.xr_s2 {font-family:AR CENA;font-size:42px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
-.xr_s3 {font-family:AR CENA;font-size:46px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
-.xr_s4 {font-family:AR CENA;font-size:47px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
-.xr_s5 {font-family:AR BLANCA;font-size:90px;font-weight:normal;font-style:normal;text-decoration:none;color:#E5E5E5;letter-spacing:0.0em;}
-.xr_s6 {font-family:AR CENA;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
-.xr_s7 {font-family:AnticFont;font-size:45px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s0 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s1 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;letter-spacing:0.0em;}
+.xr_s2 {font-family:Arial Black;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
+.xr_s3 {font-family:Arial Black;font-size:64px;font-weight:normal;font-style:normal;text-decoration:none;color:#E5E5E5;letter-spacing:0.0em;}
+.xr_s4 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s5 {font-family:Comic Sans MS;font-size:40px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s6 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s7 {font-family:Times New Roman;font-size:21px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
 .xr_s8 {font-family:Amethyst;font-size:45px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
-.xr_s9 {font-family:AcclamationItal;font-size:24px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
-.xr_s10 {font-family:Arial Black;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
-.xr_s11 {font-family:Algerian;font-size:64px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
-.xr_s12 {font-family:AR CENA;font-size:45px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
-.xr_s13 {font-family:AR BERKLEY;font-size:26px;font-weight:normal;font-style:normal;text-decoration:none;color:#002F00;letter-spacing:0.0em;}
-.xr_s14 {font-family:Blackadder ITC;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
-.xr_s15 {font-family:Blackadder ITC;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#002F00;letter-spacing:0.0em;}
+.xr_s9 {font-family:Arial;font-size:24px;font-weight:bold;font-style:italic;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s10 {font-family:Comic Sans MS;font-size:40px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s11 {font-family:Arial Black;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s12 {font-family:Arial Black;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s13 {font-family:Comic Sans MS;font-size:28px;font-weight:normal;font-style:normal;text-decoration:none;color:#002F00;letter-spacing:0.0em;}
+.xr_s14 {font-family:Comic Sans MS;font-size:28px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+/* Text styles */
+.xr_s15 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s16 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;letter-spacing:0.0em;}
+.xr_s17 {font-family:Arial Black;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
+.xr_s18 {font-family:Arial Black;font-size:64px;font-weight:normal;font-style:normal;text-decoration:none;color:#E5E5E5;letter-spacing:0.0em;}
+.xr_s19 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s20 {font-family:Comic Sans MS;font-size:40px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s21 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s22 {font-family:Times New Roman;font-size:21px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s23 {font-family:Amethyst;font-size:45px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s24 {font-family:Arial;font-size:24px;font-weight:bold;font-style:italic;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+/* Text styles */
+.xr_s25 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s26 {font-family:Arial;font-size:36px;font-weight:normal;font-style:normal;text-decoration:none;letter-spacing:0.0em;}
+.xr_s27 {font-family:Arial Black;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#CCCCCC;letter-spacing:0.0em;}
+.xr_s28 {font-family:Arial Black;font-size:64px;font-weight:normal;font-style:normal;text-decoration:none;color:#E5E5E5;letter-spacing:0.0em;}
+.xr_s29 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;letter-spacing:0.0em;}
+.xr_s30 {font-family:Comic Sans MS;font-size:40px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s31 {font-family:Comic Sans MS;font-size:32px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s32 {font-family:Times New Roman;font-size:21px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s33 {font-family:Amethyst;font-size:45px;font-weight:normal;font-style:normal;text-decoration:none;color:#4C4C4C;letter-spacing:0.0em;}
+.xr_s34 {font-family:Arial;font-size:24px;font-weight:bold;font-style:italic;text-decoration:none;color:#000000;letter-spacing:0.0em;}
